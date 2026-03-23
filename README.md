@@ -1,27 +1,28 @@
-# Dashboard for HR Department Manager
+# Dashboard For HR Department Manager
 
 # Introduction
-📊 Exploring the global and UK data job market, this project focuses on Data Analytics roles featuring: 💰 Highest paid jobs, 🔥 in-demand skills, 📈 skills related to higher salaries and 📅 when job listings are most frequent.
+📊 Exploring employee data to find key staff metrics which include: 💰 Average Salary, 🔥 Top Earners , 📈 Headcount By Location and 📅 Headcount By Department.
 
-🔍 Interactive Dashboard? Check it out here: [Dashboard]()
+🔍 Interactive Dashboard? Check it out here: [Dashboard](https://github.com/stephenjbarratt/Dashboard_For_HR_Department_Manager/blob/4079a8490dac14bd6480e72762299512491f0997/Dashboard.gif)
 
 # Background
-My aim for this project is to provide myself and others with an insight into the global and UK Data Analysis job market.
+In this project I took on the role of a member of the HR Department for an American Company. The manager has asked for a report to summarise staff metrics at the company, to help with future planning and decision-making.
 
-The project contains data on job postings for data roles in 2023, with insights on job titles, locations, salaries, skills and other employment related information. The data itself comes from Luke Barousse's [SQL Course](https://www.lukebarousse.com/sql).
+The project contains employee data, with insights on employee names, salary, department, employment type and location. The data itself comes from the Pivot Table Mastery Course on XelPlus [XelPlus course](https://www.xelplus.com/course/excel-pivot-tables/).
 
-### The questions I wanted to answer through my SQL queries were:
-1. What are the highest paid data analyst jobs?
-2. What skills are required for these highest paid jobs?
-3. What are the most in demand skills for data analysts?
-4. When are data analysis job postings most frequent?
+### The requirements I wanted to include in the report are:
+1. Total headcount
+2. Total FTE
+3. Average Salary
+4. Top Earner Salary
+5. Headcount by Department
+6. Headcount by Employment type
+7. Top 10 earners by Department
+8. Employees by Department and Location
 
 
 # Tools I Used
-To explore the Data Analysis job market I used several tools:
-* **SQL:** The backbone of my analysis, allowing me to query the database and find critical insights.
-* **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
-* **Visual Studio Code:** My go to for database management and executing SQL queries.
+To explore the employee dataset I used several tools:
 * **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 * **Excel:** For storytelling the data through charts.
 
